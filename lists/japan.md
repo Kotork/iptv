@@ -1,4 +1,4 @@
-<h1>日本 / Japan</h1>
+<h1>Japan</h1>
 
 <h2> 地上波/Terrestrial </h2>
 
